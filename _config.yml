@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "http://khristophor.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,43 +14,40 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Chris Wiseman
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: A simple portfolio site.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
+  Portfolio: "portfolio"
+  Musings: "musings"  
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar:
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
- 
+  name: Chris Wiseman
+  email: "wiseman.christopher@gmail.com"
+  facebook:   # eg. daattali
+  github: khristophor    # eg. daattali
+  twitter: khristophor   # eg. daattali
+  linkedin:   # eg. "pub/dean-attali/8/946/143"
+  stackoverflow:   # eg. "3943160/daattali"
+
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
   twitter: true
   github: true
@@ -59,7 +56,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty:  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -72,10 +69,10 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Halifax"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
@@ -85,8 +82,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
+      layout: "minimal"
+      comments: false  # add comments to all blog posts
   -
     scope:
       path: "" # all files
@@ -147,6 +144,6 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-  
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
