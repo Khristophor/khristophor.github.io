@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: me
+subtitle: 
 ---
 
 #### Me
