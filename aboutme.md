@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Oh hi, I didn't notice you there
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+#### Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Chris Wiseman, and aside from my interest in programming, I spend most of my spare time playing videogames and hanging out with my wife and cat.
 
-What else do you need?
+#### My past
 
-### my history
+I spent quite a bit of time in post-secondary education at Dalhousie and Saint Mary's studying everything from engineering and sciences to business. My indecisiveness got the better of me and eventually I wound up at New Brunswick Community College studying internet application development
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+#### My present
+
+Currently:
+- Living in beautiful [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/@44.6492093,-63.6920143,12z/data=!3m1!4b1!4m2!3m1!1s0x4b5a211407dbfac1:0x666be3a6438b2ddc)
+- Coding in PHP, MySQL, Javascript and Ruby on Rails
+- Playing [Dark Souls 3](https://www.darksouls3.com/us/), [Stardew Valley](http://stardewvalley.net/), and [Rocket League](http://www.rocketleaguegame.com/)
