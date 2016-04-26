@@ -10,7 +10,7 @@ My name is Chris Wiseman, and aside from my interest in programming, I spend mos
 
 #### My past
 
-I spent quite a bit of time in post-secondary education at Dalhousie and Saint Mary's studying everything from engineering and sciences to business. My indecisiveness got the better of me and eventually I wound up at New Brunswick Community College studying internet application development
+I spent quite a bit of time in post-secondary education at Dalhousie and Saint Mary's studying everything from engineering and sciences to business. My indecisiveness got the better of me and eventually I wound up at New Brunswick Community College studying internet application development. While at NBCC I learned predominantly .NET technologies including but not limited to SQL, C#, ASP.NET, ASP MVC, and Windows Forms Applications. I also spent some time learning PHP, Java, business communications, and object oriented principles.
 
 #### My present
 
