@@ -15,6 +15,7 @@ I spent quite a bit of time in post-secondary education at Dalhousie and Saint M
 #### My present
 
 Currently:
+
 - Living in beautiful [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/@44.6492093,-63.6920143,12z/data=!3m1!4b1!4m2!3m1!1s0x4b5a211407dbfac1:0x666be3a6438b2ddc)
 - Coding in PHP, MySQL, Javascript and Ruby on Rails
 - Playing [Dark Souls 3](https://www.darksouls3.com/us/), [Stardew Valley](http://stardewvalley.net/), and [Rocket League](http://www.rocketleaguegame.com/)
