@@ -158,7 +158,7 @@ Second, we fire the ajax request when the page loads:
             }
     	});
 
-	});
+    });
 
 })(jQuery);
 ```
