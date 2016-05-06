@@ -41,6 +41,26 @@ hr.small {
   border-radius: 3px;
 }
 
+small {
+    font-size: 0.8em;
+    font-style: italic;
+    opacity: 0.8;
+}
+
+table {
+    width: 50%;
+}
+
+.progress {
+    width: 75%;
+    float: right;
+}
+
+.progress-label {
+    width: 25%;
+    float: left;
+}
+
 .main-content {
   padding-top: 80px;
 }
