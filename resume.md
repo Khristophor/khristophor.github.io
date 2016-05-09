@@ -46,6 +46,7 @@ Covered a wide variety of programming topics. The majority of the program was fo
 | Netbeans                   | 70%                        |
 | Sequel Pro                 | 85%                        |
 | SQL Management Studio 2012 | 90%                        |
+| XAMPP                      | 85%                        |
 | Postico                    | 80%                        |
 | Postman                    | 75%                        |
 | FileZilla                  | 80%                        |
