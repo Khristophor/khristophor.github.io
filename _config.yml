@@ -1,5 +1,7 @@
 # --- General options --- #
 
+gems: [jekyll-paginate]
+
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -76,7 +78,7 @@ kramdown:
     input: GFM
     hard_wrap: false
 permalink: /:title/
-# paginate: 5
+paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
