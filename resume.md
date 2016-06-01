@@ -20,6 +20,7 @@ Covered a wide variety of programming topics. The majority of the program was fo
 | ------------- | ------------- |
 | PHP           | 90%           |
 | C#            | 90%           |
+| VB            | 90%           |
 | SQL/MySQL     | 85%           |
 | PostgreSQL    | 70%           |
 | Java          | 65%           |
