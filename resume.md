@@ -18,21 +18,21 @@ Covered a wide variety of programming topics. The majority of the program was fo
 
 | Skill         | Ability       |
 | ------------- | ------------- |
-| PHP           | 90%           |
 | C#            | 90%           |
+| PHP           | 85%           |
 | VB            | 90%           |
 | SQL/MySQL     | 85%           |
 | PostgreSQL    | 70%           |
 | Java          | 65%           |
-| Ruby on Rails | 40%           |
+| Ruby on Rails | 70%           |
 | HTML          | 85%           |
-| CSS           | 30%           |
-| SASS          | 30%           |
+| CSS           | 40%           |
+| SASS          | 40%           |
 | JS/JQuery     | 80%           |
 | JSON          | 85%           |
 | XML           | 65%           |
-| Wordpress     | 90%           |
-| Laravel 5     | 70%           |
+| Wordpress     | 85%           |
+| Laravel 5     | 65%           |
 | Bootstrap     | 80%           |
 | Materialize   | 70%           |
 
@@ -40,12 +40,13 @@ Covered a wide variety of programming topics. The majority of the program was fo
 
 | Tool                       | Ability                    |
 | -------------------------- | -------------------------- |
-| Atom                       | 90%                        |
-| Sublime Text               | 90%                        |
-| Visual Studio 2012/14      | 90%                        |
-| Eclipse                    | 65%                        |
-| Netbeans                   | 70%                        |
-| Sequel Pro                 | 85%                        |
+| Atom                       | 80%                        |
+| Sublime Text               | 80%                        |
+| Visual Studio 2012/14      | 80%                        |
+| Visual Studio Code         | 80%                        |
+| Eclipse                    | 60%                        |
+| Netbeans                   | 60%                        |
+| Sequel Pro                 | 90%                        |
 | SQL Management Studio 2012 | 90%                        |
 | XAMPP                      | 85%                        |
 | Postico                    | 80%                        |
@@ -54,6 +55,8 @@ Covered a wide variety of programming topics. The majority of the program was fo
 | Slack                      | 90%                        |
 | Github                     | 90%                        |
 | Gitlab                     | 85%                        |
+| Jira                       | 70%                        |
+| Jenkins                    | 70%                        |
 | Windows 7/8.1/10           | 90%                        |
 | OSX                        | 80%                        |
 
@@ -62,7 +65,14 @@ Covered a wide variety of programming topics. The majority of the program was fo
 ## Experience
 
 **Developer**  
-<small>2014 - Present</small>  
+<small>2014 - 2016</small>  
 <small>Norex</small>
 
 Primarily custom Wordpress development for client projects. Responsible for continual maintenance and a custom integration system for a large multinational law client. Sole developer for multiple client projects, encompassing client meetings, documentation, development and rollout. Created a guide and template to standardize issue submissions during quality assurance testing. Learned multiple new languages and frameworks. Worked closely with other team members (design, front end, development) to produce successful client projects.
+
+
+**Software Developer**  
+<small>2016 - Present</small>  
+<small>Master Merchant Systems</small>
+
+Part of a small team that maintains and enhances a client-facing tablet application written in Java/React with a Ruby on Rails back end. Agile methodology used to estimate and plan stories prioritized by the team lead and product owner. Responsible for implementing any bug fixes or feature enhancements, reviewing code, deploying reviewed code to the staging environment(s), and working with QA resources to properly test. Product deployed to multiple clients with varying integrations, configurations, and data sets.
