@@ -6,8 +6,8 @@ subtitle:
 
 ## Education
 
-**Internet Application Development**  
-<small>2012 - 2014</small>  
+**Internet Application Development**
+<small>2012 - 2014</small>
 <small>NBCC Moncton Campus – Moncton, NB</small>
 
 Covered a wide variety of programming topics. The majority of the program was focused in .NET, with SQL Server and Visual Studio 2012. Learned programming fundamentals, database design and development, web development, mobile development, object oriented analysis and design, business communications and project management.
@@ -64,15 +64,21 @@ Covered a wide variety of programming topics. The majority of the program was fo
 
 ## Experience
 
-**Developer**  
-<small>2014 - 2016</small>  
+**Developer**
+<small>2014 - 2016</small>
 <small>Norex</small>
 
 Primarily custom Wordpress development for client projects. Responsible for continual maintenance and a custom integration system for a large multinational law client. Sole developer for multiple client projects, encompassing client meetings, documentation, development and rollout. Created a guide and template to standardize issue submissions during quality assurance testing. Learned multiple new languages and frameworks. Worked closely with other team members (design, front end, development) to produce successful client projects.
 
 
-**Software Developer**  
-<small>2016 - Present</small>  
+**Software Developer**
+<small>2016 - 2017</small>
 <small>Master Merchant Systems</small>
 
 Part of a small team that maintains and enhances a client-facing tablet application written in Java/React with a Ruby on Rails back end. Agile methodology used to estimate and plan stories prioritized by the team lead and product owner. Responsible for implementing any bug fixes or feature enhancements, reviewing code, deploying reviewed code to the staging environment(s), and working with QA resources to properly test. Product deployed to multiple clients with varying integrations, configurations, and data sets.
+
+**Full Stack Developer**
+<small>2017 - Present</small>
+<small>Get Chalk</small>
+
+Tasked with modernizing a WordPress stack for multiple company-owned sites to be more maintainable and easier to keep up-to-date. Researched and implemented a collection of tools to bring WordPress into an environment that is more in line with PHP and web development best practices.
