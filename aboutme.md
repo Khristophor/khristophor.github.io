@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-subtitle: 
+subtitle:
 ---
 
 #### Me
 
-My name is Chris Wiseman, and aside from my interest in programming, I spend most of my spare time playing videogames and hanging out with my wife and cat.
+My name is Chris Wiseman, and aside from my interest in programming, I spend most of my spare time playing videogames and hanging out with my wife and cats.
 
 #### My past
 
@@ -17,5 +17,5 @@ I spent quite a bit of time in post-secondary education at Dalhousie and Saint M
 Currently:
 
 - Living in beautiful [Halifax, Nova Scotia](https://www.google.ca/maps/place/Halifax,+NS/@44.6492093,-63.6920143,12z/data=!3m1!4b1!4m2!3m1!1s0x4b5a211407dbfac1:0x666be3a6438b2ddc)
-- Coding in PHP, MySQL, Javascript and Ruby on Rails
-- Playing [Final Fantasy XV](http://www.finalfantasyxv.com/), [Titanfall 2](https://www.titanfall.com/en_us/), and [Rocket League](http://www.rocketleaguegame.com/)
+- Building a better WordPress environment with Docker, Bedrock, wp-cli and Timber
+- Playing [Playerunknown's Battlegrounds](https://www.playbattlegrounds.com/main.pu), [Dark Souls 3](https://www.darksouls3.com/us/), and [Rocket League](http://www.rocketleaguegame.com/)
