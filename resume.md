@@ -18,47 +18,46 @@ Covered a wide variety of programming topics. The majority of the program was fo
 
 | Skill         | Ability       |
 | ------------- | ------------- |
-| C#            | 90%           |
-| PHP           | 85%           |
-| VB            | 90%           |
+| PHP           | 90%           |
+| C#            | 80%           |
+| VB            | 70%           |
 | SQL/MySQL     | 85%           |
 | PostgreSQL    | 70%           |
-| Java          | 65%           |
+| Sqlite        | 70%           |
 | Ruby on Rails | 70%           |
 | HTML          | 85%           |
-| CSS           | 40%           |
-| SASS          | 40%           |
+| CSS           | 60%           |
+| SASS          | 60%           |
 | JS/JQuery     | 80%           |
 | JSON          | 85%           |
 | XML           | 65%           |
-| Wordpress     | 85%           |
-| Laravel 5     | 65%           |
-| Bootstrap     | 80%           |
+| Wordpress     | 90%           |
+| Laravel 5     | 70%           |
+| Bootstrap     | 85%           |
 | Materialize   | 70%           |
 
 ## Tools
 
 | Tool                       | Ability                    |
 | -------------------------- | -------------------------- |
+| Visual Studio Code         | 90%                        |
 | Atom                       | 80%                        |
 | Sublime Text               | 80%                        |
 | Visual Studio 2012/14      | 80%                        |
-| Visual Studio Code         | 80%                        |
 | Eclipse                    | 60%                        |
 | Netbeans                   | 60%                        |
 | Sequel Pro                 | 90%                        |
-| SQL Management Studio 2012 | 90%                        |
-| XAMPP                      | 85%                        |
+| SQL Management Studio 2012 | 80%                        |
 | Postico                    | 80%                        |
 | Postman                    | 75%                        |
-| FileZilla                  | 80%                        |
 | Slack                      | 90%                        |
 | Github                     | 90%                        |
-| Gitlab                     | 85%                        |
-| Jira                       | 70%                        |
+| Gitlab                     | 90%                        |
+| Jira                       | 90%                        |
 | Jenkins                    | 70%                        |
+| Docker                     | 75%                        |
 | Windows 7/8.1/10           | 90%                        |
-| OSX                        | 80%                        |
+| OSX                        | 90%                        |
 
 ---
 
